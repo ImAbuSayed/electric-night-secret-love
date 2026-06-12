@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-night-secret-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Electric Night Secret Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-night-secret-love/) |
+| **Get License** | [Secure Licensing Rights for Electric Night Secret Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-night-secret-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `73b0d37bfbf331f6f32c83e46cb36ab1526c80ef9e604b942f6850c84583c008` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
